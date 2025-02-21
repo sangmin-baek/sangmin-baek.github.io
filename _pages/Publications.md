@@ -1,12 +1,12 @@
 ---
-permalink : /about/
+permalink : /publications/
 layout: single
 classes: wide
 title: "ss"
 
 #author_profile: false
 sidebar:
-  nav: "about-sidebar"
+  nav: "publications-sidebar"
 header:
   overlay_image: /assets/images/jumper-and-glider.jpg  # 헤더 배경 이미지
   overlay_filter: 0.5  # (선택) 어두운 필터 적용 (0.0 ~ 1.0)
@@ -16,10 +16,10 @@ header:
 
 Welcome to my About page!
 
-# Section 1 {#section1}
+# Journal 1 {#section1}
 This is the first section.
 
-# Section 2 {#section2}
+# Conf 2 {#section2}
 This is the second section.
 
 # Section 3 {#section3}

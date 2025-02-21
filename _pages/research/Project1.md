@@ -1,40 +1,27 @@
 ---
-permalink : /about/
+permalink : /research/project1/
 layout: single
 classes: wide
-title: "ss"
-
-#author_profile: false
+title: "Project 1"
 sidebar:
-  nav: "about-sidebar"
-header:
-  overlay_image: /assets/images/jumper-and-glider.jpg  # 헤더 배경 이미지
-  overlay_filter: 0.5  # (선택) 어두운 필터 적용 (0.0 ~ 1.0)
-  overlay_full: false  # (선택) 전체 화면 배경 비활성화
+  nav: "research-sidebar"
 ---
 
 
-Welcome to my About page!
+# Project 1: Autonomous Robots
 
-# Section 1 {#section1}
-This is the first section.
-
-# Section 2 {#section2}
-This is the second section.
-
-# Section 3 {#section3}
-This is the third section.
-
----
-ssss
-
----
-This is a simple single-page layout.
-ㅇ
-ㅇ
+This project focuses on developing autonomous robots for disaster relief.
 ---
 The rapid deployment and load-bearing abilities of foldable wings enhance the versatility of the locomotion of flying and gliding animals (1–10). Rapid deployment of folded wings allows an animal to quickly change its locomotive mode from ground to aerial, thus enabling them to adapt to drastic environmental changes or predatory situations. The load-bearing ability of deployed wings ensures flight stability by preventing wing failure that could otherwise occur from the aerodynamic forces applied during flight. To achieve these properties, birds actively control their muscles and bones (3–5). Different from birds, insects have membranous wings that are boneless and without muscle; thus, they must use the strategically patterned compliant structures of their wings, specifically the wing’s resilin and vein (6–10).
 The resilin and the vein usually perform different tasks in insect behaviors. Resilin is located in various appendages of the insects, such as wings, legs, and jaws. Resilin is mainly in charge of the elastic energy storage, which enables rapid and vigorous motions, like jumping, which requires large power, far beyond the muscle output (11–17). The vein’s main role is to support the insect’s wings to keep the wings from being folded during flight (8, 9). In contrast to these examples, ladybird beetles have specialized veins that enable both rapid self-deploying and robust load-bearing capabilities (10). A ladybird beetle can deploy its intricately folded wings within 100 ms, and its wings can effectively sustain aerodynamic forces during high-frequency flapping. A key feature of this beetle’s wing is the geometry and deformation of the wing frame, specifically, its tape-spring shaped vein. The veins’ cross-sectional curvature and compliance render both elastic energy storage and self-locking abilities. The cross-sectional curvature induces high initial stiffness of the vein and enables self-locking of the wing. The vein’s initially curved configuration flattens during wing folding, and large strain energy is stored on the vein. This large energy storage and the self-locking abilities of the vein form the core foundation of the ladybird beetle’s rapid self-deployable and load bearing wings.
+
+{% include video id="AD4ux8qNeEg" provider="youtube" %}
+
 In synthetic systems, energy storage/release and structural locking techniques are also well-established methods for kinetic and static behavior design (18, 19). Especially in deployable systems, an analogy can be drawn between nature and synthetic systems; energy storage can facilitate the rapid transformations between the packed-and-stored state and the deployed-and-operating state, and the locking ability ensures reliable operation of the deployable system by maintaining the deployed configuration. The storable tubular extendible member (STEM), which uses elastic tape spring, is a representative case of these techniques and has been applied to the various systems (20–24). However, because of the absence of clearly defined joints, using complex kinematic behavior to the STEM or folding it flat is limited.
 Origami is a longstanding solution for designing compact and lightweight deployable systems; it accomplishes complex kinematic behavior and flat folding easily by patterning flat rigid facets and defined fold lines. On the basis of these advantages, the origami-inspired design has been applied to the various scales of applications, such as locomotive robots (25–28), a shock-absorbing mechanism (29), metamaterials (30–32), self-assembly (33, 34), wearable robots (35), and soft robotics (36, 37). In addition, various analyses were performed to diversify origami-inspired designs (38–41). To extend the functionality of the origami structure, various attempts have been made to augment physical properties besides traditional geometric designs. However, embedding physical properties by attaching conventional mechanical components to the origami structure limits the core advantages of the origami, such as compact and lightweight properties. To address these limitations, origami design principles have been proposed in previous research (42–44). Kim et al. (42) presented a perpendicular folding principle to enhance the load-bearing ability of origami structures. Faber et al. (43) developed programmable three-dimensional (3D)–printed origami structures by designing flexure stiffness profiles. Mintchev et al. (44) presented a dual-stiffness origami structure based on prestretched elastic flexures.
+[이거는 링크](https://github.com/sangmin-baek)
+[이거는 다른 페이지](/research/)
+[이런식으로도 링크 가능][이런식 링크]
 Origami structure, using a compliant membrane as a fold-line material, usually uses a thin and narrow folding area as an energy-storing element, and also the locking ability of the origami structure relies on the structural configuration of multiple facets. Therefore, the energy storage capacity of the origami structure is limited and tends to be bulky to perform locking. However, foldable systems in nature, in particular ladybird beetle wings, perform both large energy storage and self-locking, with only a simple skeletal structure (Fig. 1A). The limitations of synthetic systems arise from the rigidity assumption in origami design, which treats the facet as a flat, rigid, and nondeformable plate (45). Therefore, previous origami applications have focused on the flexure design to acquire deformation-related functionality in the origami structure, especially in the case of energy storage. However, the flexure, which undergoes high strain concentration in repeated folding and unfolding, must be made from a highly elastic material to prevent plastic deformation. Thus, the flexure usually has a low Young’s modulus (fig. S1 and note S1). In this design scenario, the energy storage is limited. Furthermore, the flexure is easily deformed by external loads. Thus, origami locking mechanisms mainly rely on multiple facets and their supporting components, such as magnets and springs, to prevent flexure deformation.
+
+[이런식 링크]: https://github.com/sangmin-baek

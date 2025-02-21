@@ -1,37 +1,16 @@
 ---
-permalink : /about/
+permalink : /research/project3/
 layout: single
 classes: wide
-title: "ss"
-
-#author_profile: false
+title: "Project 3"
 sidebar:
-  nav: "about-sidebar"
-header:
-  overlay_image: /assets/images/jumper-and-glider.jpg  # 헤더 배경 이미지
-  overlay_filter: 0.5  # (선택) 어두운 필터 적용 (0.0 ~ 1.0)
-  overlay_full: false  # (선택) 전체 화면 배경 비활성화
+  nav: "research-sidebar"
 ---
 
 
-Welcome to my About page!
+# Project 3: Autonomous Robots
 
-# Section 1 {#section1}
-This is the first section.
-
-# Section 2 {#section2}
-This is the second section.
-
-# Section 3 {#section3}
-This is the third section.
-
----
-ssss
-
----
-This is a simple single-page layout.
-ㅇ
-ㅇ
+This project focuses on developing autonomous robots for disaster relief.
 ---
 The rapid deployment and load-bearing abilities of foldable wings enhance the versatility of the locomotion of flying and gliding animals (1–10). Rapid deployment of folded wings allows an animal to quickly change its locomotive mode from ground to aerial, thus enabling them to adapt to drastic environmental changes or predatory situations. The load-bearing ability of deployed wings ensures flight stability by preventing wing failure that could otherwise occur from the aerodynamic forces applied during flight. To achieve these properties, birds actively control their muscles and bones (3–5). Different from birds, insects have membranous wings that are boneless and without muscle; thus, they must use the strategically patterned compliant structures of their wings, specifically the wing’s resilin and vein (6–10).
 The resilin and the vein usually perform different tasks in insect behaviors. Resilin is located in various appendages of the insects, such as wings, legs, and jaws. Resilin is mainly in charge of the elastic energy storage, which enables rapid and vigorous motions, like jumping, which requires large power, far beyond the muscle output (11–17). The vein’s main role is to support the insect’s wings to keep the wings from being folded during flight (8, 9). In contrast to these examples, ladybird beetles have specialized veins that enable both rapid self-deploying and robust load-bearing capabilities (10). A ladybird beetle can deploy its intricately folded wings within 100 ms, and its wings can effectively sustain aerodynamic forces during high-frequency flapping. A key feature of this beetle’s wing is the geometry and deformation of the wing frame, specifically, its tape-spring shaped vein. The veins’ cross-sectional curvature and compliance render both elastic energy storage and self-locking abilities. The cross-sectional curvature induces high initial stiffness of the vein and enables self-locking of the wing. The vein’s initially curved configuration flattens during wing folding, and large strain energy is stored on the vein. This large energy storage and the self-locking abilities of the vein form the core foundation of the ladybird beetle’s rapid self-deployable and load bearing wings.

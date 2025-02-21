@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-  - url: /
+    url: /
   - title: "About"
-  - url: /about/
-  #- title: "Publications"
-  #- url: /publications/
-  #- title: "Research"
-  #- url: /research/
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
   
 
   #- title: "Quick-Start Guide"
@@ -20,10 +20,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
- # about-sidebar:
- # - title: "Introduction"
- #   url: /about/#section1
- # - title: "Experience"
- #   url: /about/#section2
- # - title: "Skills"
- #   url: /about/#section3
+about-sidebar:
+  - title: "Introduction"
+    url: /about/#section1
+  - title: "Experience"
+    url: /about/#section2
+  - title: "Skills"
+    url: /about/#section3
+
+publications-sidebar:
+  - title: "J"
+    url: /publications/#section1
+  - title: "C"
+    url: /publications/#section2
+  - title: "P"
+    url: /publications/#section3
+
+research-sidebar:
+  - title: "proj1"
+    url: /research/project1/
+  - title: "proj2"
+    url: /research/project2/
+  - title: "proj3"
+    url: /research/project3/
