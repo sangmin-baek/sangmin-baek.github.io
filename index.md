@@ -1,7 +1,7 @@
 ---
 permalink : /
 layout: single
-classed: wide
+classes: wide
 title: ""
 
 author_profile: true

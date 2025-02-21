@@ -1,8 +1,8 @@
 ---
 permalink : /about/
 layout: single
-classed: wide
-title: ""
+classes: wide
+title: "ss"
 
 #author_profile: false
 #sidebar:
@@ -12,6 +12,7 @@ header:
   overlay_filter: 0.5  # (선택) 어두운 필터 적용 (0.0 ~ 1.0)
   overlay_full: false  # (선택) 전체 화면 배경 비활성화
 ---
-##test##
+
+**test**
 ---
 ssss
