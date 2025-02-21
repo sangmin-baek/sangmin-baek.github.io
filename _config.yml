@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Sang-Min Baek"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Postdoc Researcher working with Prof. Kyu-Jin Cho in Seoul National University."
+  bio              : "Postdoc Researcher in Seoul National University."
   location         : "Seoul, Republic of Korea"
   email            : "bsm6656@gmail.com"
   links:
@@ -123,8 +123,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.biorobotics.snu.ac.kr"
     - label: "Download CV"
-      icon: "fas fa-fail-pdf"
-      # url: "https://your-website.com"
+      icon: "fas fa-file-pdf"
+      url: "https://sangmin-baek.github.io/assets/CV/BSM-CV2502.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sangmin-baek"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
