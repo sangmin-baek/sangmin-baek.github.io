@@ -11,15 +11,69 @@ header:
   overlay_full: false  # (선택) 전체 화면 배경 비활성화
 ---
 
+## About me
 
-**Aboutme**
----
-This is a simple single-page layout.
-ㅇ
-ㅇ
----
-The rapid deployment and load-bearing abilities of foldable wings enhance the versatility of the locomotion of flying and gliding animals (1–10). Rapid deployment of folded wings allows an animal to quickly change its locomotive mode from ground to aerial, thus enabling them to adapt to drastic environmental changes or predatory situations. The load-bearing ability of deployed wings ensures flight stability by preventing wing failure that could otherwise occur from the aerodynamic forces applied during flight. To achieve these properties, birds actively control their muscles and bones (3–5). Different from birds, insects have membranous wings that are boneless and without muscle; thus, they must use the strategically patterned compliant structures of their wings, specifically the wing’s resilin and vein (6–10).
-The resilin and the vein usually perform different tasks in insect behaviors. Resilin is located in various appendages of the insects, such as wings, legs, and jaws. Resilin is mainly in charge of the elastic energy storage, which enables rapid and vigorous motions, like jumping, which requires large power, far beyond the muscle output (11–17). The vein’s main role is to support the insect’s wings to keep the wings from being folded during flight (8, 9). In contrast to these examples, ladybird beetles have specialized veins that enable both rapid self-deploying and robust load-bearing capabilities (10). A ladybird beetle can deploy its intricately folded wings within 100 ms, and its wings can effectively sustain aerodynamic forces during high-frequency flapping. A key feature of this beetle’s wing is the geometry and deformation of the wing frame, specifically, its tape-spring shaped vein. The veins’ cross-sectional curvature and compliance render both elastic energy storage and self-locking abilities. The cross-sectional curvature induces high initial stiffness of the vein and enables self-locking of the wing. The vein’s initially curved configuration flattens during wing folding, and large strain energy is stored on the vein. This large energy storage and the self-locking abilities of the vein form the core foundation of the ladybird beetle’s rapid self-deployable and load bearing wings.
-In synthetic systems, energy storage/release and structural locking techniques are also well-established methods for kinetic and static behavior design (18, 19). Especially in deployable systems, an analogy can be drawn between nature and synthetic systems; energy storage can facilitate the rapid transformations between the packed-and-stored state and the deployed-and-operating state, and the locking ability ensures reliable operation of the deployable system by maintaining the deployed configuration. The storable tubular extendible member (STEM), which uses elastic tape spring, is a representative case of these techniques and has been applied to the various systems (20–24). However, because of the absence of clearly defined joints, using complex kinematic behavior to the STEM or folding it flat is limited.
-Origami is a longstanding solution for designing compact and lightweight deployable systems; it accomplishes complex kinematic behavior and flat folding easily by patterning flat rigid facets and defined fold lines. On the basis of these advantages, the origami-inspired design has been applied to the various scales of applications, such as locomotive robots (25–28), a shock-absorbing mechanism (29), metamaterials (30–32), self-assembly (33, 34), wearable robots (35), and soft robotics (36, 37). In addition, various analyses were performed to diversify origami-inspired designs (38–41). To extend the functionality of the origami structure, various attempts have been made to augment physical properties besides traditional geometric designs. However, embedding physical properties by attaching conventional mechanical components to the origami structure limits the core advantages of the origami, such as compact and lightweight properties. To address these limitations, origami design principles have been proposed in previous research (42–44). Kim et al. (42) presented a perpendicular folding principle to enhance the load-bearing ability of origami structures. Faber et al. (43) developed programmable three-dimensional (3D)–printed origami structures by designing flexure stiffness profiles. Mintchev et al. (44) presented a dual-stiffness origami structure based on prestretched elastic flexures.
-Origami structure, using a compliant membrane as a fold-line material, usually uses a thin and narrow folding area as an energy-storing element, and also the locking ability of the origami structure relies on the structural configuration of multiple facets. Therefore, the energy storage capacity of the origami structure is limited and tends to be bulky to perform locking. However, foldable systems in nature, in particular ladybird beetle wings, perform both large energy storage and self-locking, with only a simple skeletal structure (Fig. 1A). The limitations of synthetic systems arise from the rigidity assumption in origami design, which treats the facet as a flat, rigid, and nondeformable plate (45). Therefore, previous origami applications have focused on the flexure design to acquire deformation-related functionality in the origami structure, especially in the case of energy storage. However, the flexure, which undergoes high strain concentration in repeated folding and unfolding, must be made from a highly elastic material to prevent plastic deformation. Thus, the flexure usually has a low Young’s modulus (fig. S1 and note S1). In this design scenario, the energy storage is limited. Furthermore, the flexure is easily deformed by external loads. Thus, origami locking mechanisms mainly rely on multiple facets and their supporting components, such as magnets and springs, to prevent flexure deformation.
+
+Hello! I'm Sang-Min Baek, a postdoctoral researcher in the [Biorobotics Lab][BRL_link] at Seoul National University, working with Prof. Kyu-Jin Cho. My research focuses on **developing innovative robotic systems**, particularly in **bio-inspired mechanism design**. I have a solid foundation in hardware design, and recently, I’ve been exploring **robot control to broaden my research scope**.
+
+You can find details about me on the [About][about_link] page, explore my [research][research_link], and check out my [publications][publications_link]. You can also download my [CV][cv_link].
+
+Feel free to reach out at [bsm6656@gmail.com][email].
+
+[BRL_link]: https://www.biorobotics.snu.ac.kr/
+[about_link]: /about/
+[research_link]: /research/
+[publications_link]: /publications/
+[email]: mailto:bsm6656@gmail.com
+[cv_link]: https://sangmin-baek.github.io/assets/CV/BSM-CV2502.pdf
+
+
+## Research Highlights
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+    <!-- 왼쪽 GIF -->
+    <div style="flex: 45%; margin-right: 2%;">
+        <img src="assets/gifs/ladybird_gif.gif" alt="Ladybird GIF" style="width: 100%;">
+    </div>
+
+    <!-- 오른쪽 텍스트 -->
+    <div style="flex: 50%; font-size: 18px;">
+        <b>Ladybird beetle–inspired compliant origami</b><br>
+        <font color="#17594A"><b>Baek, S. M.</b></font>, Yim, S., Chae, S. H., Lee, D. Y., & Cho, K. J <br>
+        <font color="#17594A"><b>Science Robotics, 2020.</b></font><br> 
+        <a href="/assets/publications/ladybird_pdf.pdf" target="_blank">[pdf]</a>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.aaz6262" target="_blank">[site]</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+    <!-- 왼쪽 GIF -->
+    <div style="flex: 45%; margin-right: 2%;">
+        <img src="assets/gifs/leaf_gif.gif" alt="Leaf GIF" style="width: 100%;">
+    </div>
+
+    <!-- 오른쪽 텍스트 -->
+    <div style="flex: 50%; font-size: 18px;">
+        <b>Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter</b><br>
+        Byun, J., Park, M.,<font color="#17594A"><b>Baek, S. M.</b></font>, Yoon, J., Kim, W., Lee, B., ... & Cho, K. J. <br>
+        <font color="#17594A"><b>Science Robotics, 2021.</b></font><br> 
+        <a href="/assets/publications/leaf_pdf.pdf" target="_blank">[pdf]</a>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.abe0637" target="_blank">[site]</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+    <!-- 왼쪽 GIF -->
+    <div style="flex: 45%; margin-right: 2%;">
+        <img src="assets/gifs/agile_jc_gif.gif" alt="Agile_jc GIF" style="width: 100%;">
+    </div>
+
+    <!-- 오른쪽 텍스트 -->
+    <div style="flex: 50%; font-size: 18px;">
+        <b>Agile and Energy-Efficient Jumping-Crawling Robot Through Rapid Transition of Locomotion and Enhanced Jumping Height Adjustment</b><br>
+        S.-H. Chae,<font color="#17594A"><b>S.-M. Baek</b></font>, J. Lee, and K.-J. Cho <br>
+        <font color="#17594A"><b>IEEE/ASME Transactions on Mechatronics, 2022.</b></font><br> 
+        <a href="/assets/publications/agile_jc_pdf.pdf" target="_blank">[pdf]</a>
+        <a href="https://ieeexplore.ieee.org/document/9842346" target="_blank">[site]</a>
+    </div>
+</div>

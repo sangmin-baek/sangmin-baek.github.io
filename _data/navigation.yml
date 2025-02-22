@@ -21,12 +21,25 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 about-sidebar:
-  - title: "Introduction"
-    url: /about/#section1
+  - title: "Bio"
+    url: /about/#bio
+  - title: "Research Interests"
+    url: /about/#research_interests
   - title: "Experience"
-    url: /about/#section2
-  - title: "Skills"
-    url: /about/#section3
+    url: /about/#experience
+  - title: "Education"
+    url: /about/#education
+  - title: "Research Experiences"
+    url: /about/#research_experiences
+  - title: "Technical Skills"
+    url: /about/#technical_skills    
+  - title: "Awards"
+    url: /about/#awards
+  - title: "Teaching Experiences"
+    url: /about/#teaching_experiences    
+
+
+
 
 publications-sidebar:
   - title: "J"
