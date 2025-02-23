@@ -42,17 +42,33 @@ about-sidebar:
 
 
 publications-sidebar:
-  - title: "J"
-    url: /publications/#section1
-  - title: "C"
-    url: /publications/#section2
-  - title: "P"
-    url: /publications/#section3
+  - title: "International Journals"
+    url: /publications/#international_journals
+  - title: "Conferences"
+    url: /publications/#conferences
+  - title: "Patents"
+    url: /publications/#patents
+  - title: "Dissertation"
+    url: /publications/#dissertation
+
 
 research-sidebar:
-  - title: "proj1"
-    url: /research/project1/
-  - title: "proj2"
-    url: /research/project2/
-  - title: "proj3"
-    url: /research/project3/
+  - title: "Robots"
+    url: /research/robots/  # Robots 페이지로 이동
+
+    children:
+      - title: "R1"
+        url: /research/robots/#r1  # 동일 페이지 내 스크롤 이동
+      - title: "R2"
+        url: /research/robots/#r2
+      - title: "R3"
+        url: /research/robots/#r3
+
+  - title: "Embedded Systems"
+    url: /research/embedded_systems/  # Embedded Systems 페이지로 이동
+
+    children:
+      - title: "E1"
+        url: /research/embedded_systems/#e1
+      - title: "E2"
+        url: /research/embedded_systems/#e2

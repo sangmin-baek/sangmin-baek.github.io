@@ -326,3 +326,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_title: false  # ✅ 모든 페이지에서 헤더 제목 숨김

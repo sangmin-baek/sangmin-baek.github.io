@@ -7,3 +7,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__hero--overlay {
+    height: 300px !important; /* 원하는 높이로 변경 */
+    min-height: 300px !important;
+  }

@@ -1,12 +1,19 @@
 ---
-permalink : /research/project2/
+permalink : /research/embedded_systems/
 layout: single
 classes: wide
-title: "Project 2"
+title: "Embedded Systems"
 sidebar:
   nav: "research-sidebar"
 ---
 
+# Embedded Systems
+
+## E1 {#e1}
+이곳이 E1의 내용입니다.
+
+## E2 {#e2}
+이곳이 E2의 내용입니다.
 
 # Project 2: Autonomous Robots
 

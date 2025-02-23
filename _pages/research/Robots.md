@@ -1,12 +1,22 @@
 ---
-permalink : /research/project1/
+permalink : /research/robots/
 layout: single
 classes: wide
-title: "Project 1"
+title: "Robots"
 sidebar:
   nav: "research-sidebar"
 ---
 
+# Robots
+
+## R1 {#r1}
+이곳이 R1의 내용입니다.
+
+## R2 {#r2}
+이곳이 R2의 내용입니다.
+
+## R3 {#r3}
+이곳이 R3의 내용입니다.
 
 # Project 1: Autonomous Robots
 

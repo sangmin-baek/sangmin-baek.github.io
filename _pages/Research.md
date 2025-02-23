@@ -2,7 +2,7 @@
 permalink : /research/
 layout: single
 classes: wide
-title: "ss"
+title: " "
 
 #author_profile: false
 sidebar:
