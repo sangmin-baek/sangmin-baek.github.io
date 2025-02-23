@@ -331,4 +331,4 @@ defaults:
       type: pages
     values:
       header:
-        overlay_title: false  # ✅ 모든 페이지에서 헤더 제목 숨김
+        #overlay_title: false  # ✅ 모든 페이지에서 헤더 제목 숨김
