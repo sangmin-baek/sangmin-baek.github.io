@@ -2,7 +2,8 @@
 permalink : /
 layout: single
 classes: wide
-title: " "
+title: " 
+"
 
 author_profile: true
 header:
