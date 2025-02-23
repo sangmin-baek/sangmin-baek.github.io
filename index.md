@@ -36,7 +36,7 @@ Feel free to reach out at [bsm6656@gmail.com][email].
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
     <div style="flex: 45%; margin-right: 2%;">
-        <img src="assets/gifs/ladybird_gif.gif" alt="Ladybird GIF" style="width: 100%;">
+        <img src="assets/gifs/ladybird_trim_gif.gif" alt="Ladybird GIF" style="width: 100%;">
     </div>
 
     <!-- 오른쪽 텍스트 -->
@@ -52,7 +52,7 @@ Feel free to reach out at [bsm6656@gmail.com][email].
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
     <div style="flex: 45%; margin-right: 2%;">
-        <img src="assets/gifs/leaf_gif.gif" alt="Leaf GIF" style="width: 100%;">
+        <img src="assets/gifs/leaf_trim_gif.gif" alt="Leaf GIF" style="width: 100%;">
     </div>
 
     <!-- 오른쪽 텍스트 -->
@@ -68,7 +68,7 @@ Feel free to reach out at [bsm6656@gmail.com][email].
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
     <div style="flex: 45%; margin-right: 2%;">
-        <img src="assets/gifs/agile_jc_gif.gif" alt="Agile_jc GIF" style="width: 100%;">
+        <img src="assets/gifs/agile_jc_trim_gif.gif" alt="Agile_jc GIF" style="width: 100%;">
     </div>
 
     <!-- 오른쪽 텍스트 -->
