@@ -16,13 +16,35 @@ header:
 
 
 ## Bio {#bio}
-This is the first section.
+Sang-Min Baek is a postdoctoral researcher at the [Biorobotics Lab][BRL_link] in Seoul National University, working with Prof. Kyu-Jin Cho. He received his Ph.D. in Mechanical Engineering from Seoul National University and his B.S. in Mechanical Engineering from the Korea Advanced Institute of Science and Technology (KAIST).
+
+His research interests include bio-inspired robotics, locomotive robots, compliant mechanisms, soft robotics, and origami inspired mechanisms.
+
+[Download CV][cv_link]
+
+
+[BRL_link]: https://www.biorobotics.snu.ac.kr/
+[cv_link]: https://sangmin-baek.github.io/assets/CV/BSM-CV2502.pdf
 
 ## Research Interests {#research_interests}
-This is the second section.
+- Bio-inspired robots
+- Locomotive robots
+- Compliant mechanisms
+- Soft robotics
+- Origami inspired mechanisms
+- Smart actuators & fabrications
+- Dynamic modeling & Simulation
+- Robot control
+
 
 ## Experience {#experience}
-This is the third section.
+
+|Preiod|Experience|
+|:---:|:---|
+|Sep.2023  <br>-<br> Present|<b><font color="#213363">Postdoctoral Research Associate</font></b><br> Biorobotics Lab, Soft Robotics Research Center (SRRC), Biomimetic Robotics Research Center (BMRR), Seoul National University <br> Advisor: Prof. Kyu-Jin Cho|
+
+
+
 
 ## Education {#education}
 This is the third section.
