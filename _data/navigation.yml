@@ -57,18 +57,24 @@ research-sidebar:
     url: /research/robots/  # Robots 페이지로 이동
 
     children:
-      - title: "R1"
-        url: /research/robots/#r1  # 동일 페이지 내 스크롤 이동
-      - title: "R2"
-        url: /research/robots/#r2
-      - title: "R3"
-        url: /research/robots/#r3
+      - title: "Jump-Gliding Robot: Ladybird beetle-inspired origami"
+        url: /research/robots/#ladybird  # 동일 페이지 내 스크롤 이동
+      - title: "Swimming Soft Robot"
+        url: /research/robots/#leaf
+      - title: "Jump-Crawling Robots"
+        url: /research/robots/#jc_robot
+      - title: "Crawling Robots"
+        url: /research/robots/#crawl_robot
+      - title: "Jumping Robots"
+        url: /research/robots/#jumping_robot
+      - title: "Others"
+        url: /research/robots/#other_robot
 
   - title: "Embedded Systems"
     url: /research/embedded_systems/  # Embedded Systems 페이지로 이동
 
     children:
-      - title: "E1"
-        url: /research/embedded_systems/#e1
-      - title: "E2"
-        url: /research/embedded_systems/#e2
+      - title: "Embedded Hardware"
+        url: /research/embedded_systems/#embedded_hardware
+      - title: "Firmware / Software"
+        url: /research/embedded_systems/#firmware
