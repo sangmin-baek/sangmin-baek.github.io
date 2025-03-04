@@ -10,26 +10,62 @@ sidebar:
 
 ## Jump-Gliding Robot: Ladybird beetle-inspired compliant origami {#ladybird}
 
-{% include video id="AD4ux8qNeEg" provider="youtube" %}
-
 |<font color="#213363"><b>Baek, S. M.</b></font>, Yim, S., Chae, S. H., Lee, D. Y., & Cho, K. J., “Ladybird beetle–inspired compliant origami", in **Science Robotics (I.F. 26.1)**, 2020, 5.41: eaaz6262. [[pdf]][ladybird_pdf] [[site]][ladybird_link]
 
-The rapid deployment and load-bearing abilities of foldable wings enhance the versatility of the locomotion of flying and gliding animals (1–10). Rapid deployment of folded wings allows an animal to quickly change its locomotive mode from ground to aerial, thus enabling them to adapt to drastic environmental changes or predatory situations. The load-bearing ability of deployed wings ensures flight stability by preventing wing failure that could otherwise occur from the aerodynamic forces applied during flight. To achieve these properties, birds actively control their muscles and bones (3–5). Different from birds, insects have membranous wings that are boneless and without muscle; thus, they must use the strategically patterned compliant structures of their wings, specifically the wing’s resilin and vein (6–10).
-The resilin and the vein usually perform different tasks in insect behaviors. Resilin is located in various appendages of the insects, such as wings, legs, and jaws. Resilin is mainly in charge of the elastic energy storage, which enables rapid and vigorous motions, like jumping, which requires large power, far beyond the muscle output (11–17). The vein’s main role is to support the insect’s wings to keep the wings from being folded during flight (8, 9). In contrast to these examples, ladybird beetles have specialized veins that enable both rapid self-deploying and robust load-bearing capabilities (10). A ladybird beetle can deploy its intricately folded wings within 100 ms, and its wings can effectively sustain aerodynamic forces during high-frequency flapping. A key feature of this beetle’s wing is the geometry and deformation of the wing frame, specifically, its tape-spring shaped vein. The veins’ cross-sectional curvature and compliance render both elastic energy storage and self-locking abilities. The cross-sectional curvature induces high initial stiffness of the vein and enables self-locking of the wing. The vein’s initially curved configuration flattens during wing folding, and large strain energy is stored on the vein. This large energy storage and the self-locking abilities of the vein form the core foundation of the ladybird beetle’s rapid self-deployable and load bearing wings.
-
 {% include video id="AD4ux8qNeEg" provider="youtube" %}
+*<b>Overview</b> - Ladybird beetle inspired compliant origami* <br>
 
-In synthetic systems, energy storage/release and structural locking techniques are also well-established methods for kinetic and static behavior design (18, 19). Especially in deployable systems, an analogy can be drawn between nature and synthetic systems; energy storage can facilitate the rapid transformations between the packed-and-stored state and the deployed-and-operating state, and the locking ability ensures reliable operation of the deployable system by maintaining the deployed configuration. The storable tubular extendible member (STEM), which uses elastic tape spring, is a representative case of these techniques and has been applied to the various systems (20–24). However, because of the absence of clearly defined joints, using complex kinematic behavior to the STEM or folding it flat is limited.
-Origami is a longstanding solution for designing compact and lightweight deployable systems; it accomplishes complex kinematic behavior and flat folding easily by patterning flat rigid facets and defined fold lines. On the basis of these advantages, the origami-inspired design has been applied to the various scales of applications, such as locomotive robots (25–28), a shock-absorbing mechanism (29), metamaterials (30–32), self-assembly (33, 34), wearable robots (35), and soft robotics (36, 37). In addition, various analyses were performed to diversify origami-inspired designs (38–41). To extend the functionality of the origami structure, various attempts have been made to augment physical properties besides traditional geometric designs. However, embedding physical properties by attaching conventional mechanical components to the origami structure limits the core advantages of the origami, such as compact and lightweight properties. To address these limitations, origami design principles have been proposed in previous research (42–44). Kim et al. (42) presented a perpendicular folding principle to enhance the load-bearing ability of origami structures. Faber et al. (43) developed programmable three-dimensional (3D)–printed origami structures by designing flexure stiffness profiles. Mintchev et al. (44) presented a dual-stiffness origami structure based on prestretched elastic flexures.
-[이거는 링크](https://github.com/sangmin-baek)
-[이거는 다른 페이지](/research/)
-[이런식으로도 링크 가능][이런식 링크]
-Origami structure, using a compliant membrane as a fold-line material, usually uses a thin and narrow folding area as an energy-storing element, and also the locking ability of the origami structure relies on the structural configuration of multiple facets. Therefore, the energy storage capacity of the origami structure is limited and tends to be bulky to perform locking. However, foldable systems in nature, in particular ladybird beetle wings, perform both large energy storage and self-locking, with only a simple skeletal structure (Fig. 1A). The limitations of synthetic systems arise from the rigidity assumption in origami design, which treats the facet as a flat, rigid, and nondeformable plate (45). Therefore, previous origami applications have focused on the flexure design to acquire deformation-related functionality in the origami structure, especially in the case of energy storage. However, the flexure, which undergoes high strain concentration in repeated folding and unfolding, must be made from a highly elastic material to prevent plastic deformation. Thus, the flexure usually has a low Young’s modulus (fig. S1 and note S1). In this design scenario, the energy storage is limited. Furthermore, the flexure is easily deformed by external loads. Thus, origami locking mechanisms mainly rely on multiple facets and their supporting components, such as magnets and springs, to prevent flexure deformation.
+---
 
-[이런식 링크]: https://github.com/sangmin-baek
+
+{% include video id="xfVEeDIuX5Q" provider="youtube" %}
+*<b>About the Origami Structure</b> - Ladybird beetle inspired compliant origami* <br>
+
+---
+
+{% include video id="C6HY12WmqUg" provider="youtube" %}
+*<b>Jump-Gliding Locomotion</b> - Ladybird beetle inspired compliant origami* <br>
+
+---
+
+{% include video id="p9Z3IEKnQIs" provider="youtube" %}
+*<b>Crawl-Gliding Locomotion</b> - Ladybird beetle inspired compliant origami* <br>
+
+---
+
+{% include video id="oYvLaWD--Aw" provider="youtube" %}
+*<b>Flapping</b> - Ladybird beetle inspired compliant origami* <br>
+
+---
+
+{% include video id="bqQaYfp16c4" provider="youtube" %}
+*<b>Jumping</b> - Ladybird beetle inspired compliant origami* <br>
+
+---
 
 ## Swimming Soft Robot {#leaf}
 
+| Byun, J., Park, M., <font color="#213363"><b>Baek, S. M.</b></font>, Yoon, J., Kim, W., Lee, B., Hong, Y., & Cho, K. J., “Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter", in **Science Robotics (I.F. 26.1)**, 2021, 6.53: eabe0637. [[pdf]][leaf_pdf] [[site]][leaf_link]
+
+{% include video id="7zJ0zVdD2qA" provider="youtube" %}
+*<b>Overview</b> - Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter* <br>
+
+---
+
+{% include video id="22pBOWnc0io" provider="youtube" %}
+*<b>Inclined Ascending</b> - Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter* <br>
+
+---
+
+{% include video id="orRGJ2j8jOo" provider="youtube" %}
+*<b>Lateral Motion</b> - Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter* <br>
+
+---
+
+{% include video id="NYTKkEjbbs4" provider="youtube" %}
+*<b>Maneuvering</b> - Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter* <br>
+
+---
 
 The rapid deployment and load-bearing abilities of foldable wings enhance the versatility of the locomotion of flying and gliding animals (1–10). Rapid deployment of folded wings allows an animal to quickly change its locomotive mode from ground to aerial, thus enabling them to adapt to drastic environmental changes or predatory situations. The load-bearing ability of deployed wings ensures flight stability by preventing wing failure that could otherwise occur from the aerodynamic forces applied during flight. To achieve these properties, birds actively control their muscles and bones (3–5). Different from birds, insects have membranous wings that are boneless and without muscle; thus, they must use the strategically patterned compliant structures of their wings, specifically the wing’s resilin and vein (6–10).
 The resilin and the vein usually perform different tasks in insect behaviors. Resilin is located in various appendages of the insects, such as wings, legs, and jaws. Resilin is mainly in charge of the elastic energy storage, which enables rapid and vigorous motions, like jumping, which requires large power, far beyond the muscle output (11–17). The vein’s main role is to support the insect’s wings to keep the wings from being folded during flight (8, 9). In contrast to these examples, ladybird beetles have specialized veins that enable both rapid self-deploying and robust load-bearing capabilities (10). A ladybird beetle can deploy its intricately folded wings within 100 ms, and its wings can effectively sustain aerodynamic forces during high-frequency flapping. A key feature of this beetle’s wing is the geometry and deformation of the wing frame, specifically, its tape-spring shaped vein. The veins’ cross-sectional curvature and compliance render both elastic energy storage and self-locking abilities. The cross-sectional curvature induces high initial stiffness of the vein and enables self-locking of the wing. The vein’s initially curved configuration flattens during wing folding, and large strain energy is stored on the vein. This large energy storage and the self-locking abilities of the vein form the core foundation of the ladybird beetle’s rapid self-deployable and load bearing wings.
